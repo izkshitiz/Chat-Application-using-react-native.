@@ -20,9 +20,9 @@
 
 <img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/chatone.png" width=300 />
 
-<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/login.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/chattwo.jpg" width="300"/>
 
-<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/chatone.png" width="300"/>
+<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/login.jpg" width="300" />
 
 <img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/logintwo.jpg" width="300" />
 
