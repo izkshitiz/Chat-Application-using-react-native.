@@ -17,7 +17,7 @@
 
 ## Screenshot
 
-![Chat](https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/chatone.png|width=300)
+![Chat]<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/chatone.png" width=300 />
 
 ![Login](https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/login.jpg)
 
