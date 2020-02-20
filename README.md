@@ -17,17 +17,18 @@
 
 ## Screenshot
 
-![Chat]<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/chatone.png" width=300 />
 
-![Login](https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/login.jpg)
+<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/chatone.png" width=300 />
 
-![Chat](https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/chatone.png)
+<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/login.jpg" width="300" />
 
-![Logintwo](https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/logintwo.jpg)
+<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/chatone.png" width="300"/>
 
-![logout](https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/logout.jpg)
+<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/logintwo.jpg" width="300" />
 
-![User](https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/user.jpg)
+<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/logout.jpg" width="300" />
+
+<img src="https://raw.githubusercontent.com/th3knigh7/Chat-Application-using-react-native./master/assets/Screenshots/user.jpg" width="300" />
 
 
 
