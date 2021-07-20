@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "axios": "^0.19.0",
     "galio-framework": "^0.6.3",
     "react-native-image-picker": "^1.1.0",
